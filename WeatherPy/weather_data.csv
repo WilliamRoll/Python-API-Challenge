@@ -1,0 +1,5 @@
+City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Contry,Date
+Paris,48.85,2.35,48.0,87,94,1.12,FR,1603061167
+London,51.51,-0.13,51.01,87,100,4.54,GB,1603060668
+New York City,40.71,-74.01,60.8,71,20,11.74,US,1603061063
+Chicago,41.85,-87.65,43.0,75,90,5.82,US,1603061093
