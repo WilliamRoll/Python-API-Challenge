@@ -6,4 +6,6 @@ WeatherPy Observable Trends:
 
 2. % of higher cloudiness locations appear to be in the Northern Hemisphere more than in the Southern.
 
-3. Wind speed in not highly correlated to the city latitude in either hemisphere. 
+3. Wind speed in not highly correlated to the city latitude in either hemisphere.
+
+Also, reference cells below graphs within script for further observations. 
